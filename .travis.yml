@@ -1,6 +1,6 @@
 language: python
 python:
-  - "3.13.6"
+  - "3.13"
   - "nightly"
 install:
   - "pip install pytest"
